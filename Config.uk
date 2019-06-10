@@ -1,0 +1,5 @@
+menuconfig LIBFP16
+    bool "fp16 - Half-precision floating point formats conversion"
+    select LIBCXX
+    default n
+
