@@ -1,0 +1,6 @@
+name        := "libfp16"
+description := "Header-only library for conversion to/from half-precision floating point formats."
+gitrepo     := "https://github.com/Maratyszcza/FP16.git"
+homepage    := "https://github.com/Maratyszcza/FP16/"
+version     := 0a92994 sha256:a91f4770ff9c39f4d72e339c379f566b3bbb359fa66122d85fc0bae3dde7abc7 https://github.com/Maratyszcza/FP16/archive/0a92994.tar.gz
+license     := "MIT"
